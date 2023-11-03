@@ -9,23 +9,27 @@ sections:
   - hero:
       title: Eastern General Hospital
       subtitle: Excellent healthcare and healing centred around you
-      background: /images/hero-banner.png
-      button: About Us
+      background: /images/egh zoom - facade 2.png
       url: /about-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: About Us
+          description: Who we are
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Our Journey
+          description: Development and milestones
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Our People
+          description: The EGH family
           url: /privacy/
+        - title: Our Events
+          description: Meeting our neighbours
+          url: ""
+      variant: center
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Building a hospital for the future
+      subtitle: Future-ready, person-centred
+      description: Learn about our initiatives in creating patient-oriented and
+        sustainable solutions.
+      button: Read more
       url: /faq/
 ---

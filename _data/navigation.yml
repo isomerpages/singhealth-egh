@@ -1,15 +1,17 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
+  - title: About Us
+    url: /permalink
+  - title: Our Journey
+    url: /permalink
+  - title: Our People
+    collection: example-folder
+  - title: Our Events
+    url: /permalink
+    sublinks:
+      - title: Steering Committee
+        url: /permalink
+      - title: Meet our People
+        url: /permalink
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder

@@ -7,11 +7,11 @@ permalink: /
 notification: Eastern General Hospital is coming to you!
 sections:
   - hero:
-      title: Welcome
-      subtitle: Excellen
+      title: Eastern General Hospital
+      subtitle: Excellent healthcare and healing centred around you
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      button: About Us
+      url: /about-us/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important

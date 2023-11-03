@@ -1,6 +1,7 @@
 ---
 title: Steering Committee
 permalink: /our-people/steering-committee/
-variant: tiptap
+variant: markdown
 description: The Eastern General Hospital (EGH) Steering Committee
 ---
+Leadership infographic

@@ -5,7 +5,7 @@ links:
   - title: Our Journey
     url: /permalink
   - title: Our People
-    collection: example-folder
+    collection: our-people
   - title: Our Events
     url: /permalink
     sublinks:

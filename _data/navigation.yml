@@ -1,0 +1,17 @@
+logo: /images/isomer-logo.svg
+links:
+  - title: About Us
+    url: /permalink
+  - title: Our Journey
+    url: /permalink
+  - title: Our People
+    collection: our-people
+  - title: Our Events
+    url: /permalink
+    sublinks:
+      - title: EGH Groundbreaking
+        url: /permalink
+      - title: Community and Events
+        url: /permalink
+  - title: Contact Us
+    url: /contact-us/

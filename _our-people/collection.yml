@@ -1,0 +1,6 @@
+collections:
+  our-people:
+    output: true
+    order:
+      - Steering Committee.md
+      - Meet our People.md

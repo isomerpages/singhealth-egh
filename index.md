@@ -4,11 +4,11 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Eastern General Hospital is coming to you!
+notification: ""
 sections:
   - hero:
       title: Eastern General Hospital
-      subtitle: Excellent healthcare and healing centred around you
+      subtitle: Excellent healthcare and healing centered around you
       background: /images/egh zoom - facade 2.png
       url: /about-us/
       key_highlights:

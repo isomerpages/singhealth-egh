@@ -1,4 +1,5 @@
 collections:
   about-egh:
     output: true
-    order: []
+    order:
+      - Hospital Overview.md

@@ -4,3 +4,4 @@ permalink: /hospital-overview/
 variant: tiptap
 description: Overview of Eastern General Hospital
 ---
+<p></p>

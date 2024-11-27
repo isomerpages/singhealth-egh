@@ -2,5 +2,6 @@ collections:
   about-egh:
     output: true
     order:
+      - Our Leaders.md
       - Who We Are.md
       - Hospital Overview.md

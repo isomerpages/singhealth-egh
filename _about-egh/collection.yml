@@ -2,7 +2,7 @@ collections:
   about-egh:
     output: true
     order:
-      - Corporate Governance.md
-      - Our Leaders.md
-      - Who We Are.md
       - Hospital Overview.md
+      - Who We Are.md
+      - Our Leaders.md
+      - Corporate Governance.md

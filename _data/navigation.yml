@@ -1,17 +1,15 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About Us
+  - title: About EGH
     url: /permalink
-  - title: Our Journey
+  - title: Building our Hospital
     url: /permalink
-  - title: Our People
+  - title: Careers
     collection: our-people
-  - title: Our Events
+  - title: Insights, Stories & News
     url: /permalink
     sublinks:
       - title: EGH Groundbreaking
         url: /permalink
       - title: Community and Events
         url: /permalink
-  - title: Contact Us
-    url: /contact-us/

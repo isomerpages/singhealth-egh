@@ -5,11 +5,17 @@ links:
   - title: Building our Hospital
     url: /permalink
   - title: Careers
-    collection: our-people
+    collection: careers
   - title: Insights, Stories & News
     url: /permalink
     sublinks:
-      - title: EGH Groundbreaking
+      - title: Media Releases
         url: /permalink
-      - title: Community and Events
+      - title: News Articles
+        url: /permalink
+      - title: Events
+        url: /permalink
+      - title: Photo Gallery
+        url: /permalink
+      - title: Media Contact
         url: /permalink

@@ -17,6 +17,8 @@ sections:
       subtitle: Future-ready, person-centred
       description: Learn about our initiatives in creating patient-oriented and
         sustainable solutions.
+      url: /hospital-overview
+      button: Learn more
   - resources:
       title: Resources
       subtitle: Add a preview and link to your Resource Room

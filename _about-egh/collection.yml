@@ -2,6 +2,7 @@ collections:
   about-egh:
     output: true
     order:
+      - Careers | Eastern General Hospital.md
       - Hospital Overview.md
       - Who We Are.md
       - Our Leaders.md

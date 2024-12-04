@@ -4,6 +4,10 @@ permalink: /sponsorships-scholarships/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EGH_AHP__Nursing__Admin_1_roundedge.png">
+</div>
 <h1>Sponsorships</h1>
 <ul data-tight="true" class="tight">
 <li>

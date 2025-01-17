@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Eastern General Hospital
       subtitle: Excellent healthcare and healing centered around you
-      background: /images/egh zoom - facade 2.png
+      background: /images/Gradient_final__png_.png
       url: /about-us/
       variant: center
       key_highlights:
@@ -33,4 +33,11 @@ sections:
       title: Resources
       subtitle: Add a preview and link to your Resource Room
       id: resources
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---

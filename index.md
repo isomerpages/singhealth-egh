@@ -34,7 +34,6 @@ sections:
       subtitle: Building support systems via
       id: infopic
       button: Learn more
-      url: ""
       image: /images/Gradient_final__png_.png
       alt: Image alt text
   - infopic:
@@ -42,7 +41,6 @@ sections:
       subtitle: Enhancing care outcomes with
       id: infopic
       button: Find out more
-      url: ""
   - resources:
       title: Resources
       subtitle: Add a preview and link to your Resource Room

@@ -41,6 +41,7 @@ sections:
       subtitle: Enhancing care outcomes with
       id: infopic
       button: Find out more
+      image: /images/Gradient_and_campus_line_drawing_v2.png
   - resources:
       title: Resources
       subtitle: Add a preview and link to your Resource Room

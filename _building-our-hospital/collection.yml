@@ -1,4 +1,5 @@
 collections:
   building-our-hospital:
     output: true
-    order: []
+    order:
+      - Development journey.md

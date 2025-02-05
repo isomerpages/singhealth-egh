@@ -29,15 +29,22 @@ sections:
         sustainable solutions.
       url: /hospital-overview
       button: Learn more
+  - infopic:
+      title: Community partnerships
+      subtitle: Building support systems via
+      id: infopic
+      button: Learn more
+      url: ""
+      image: /images/Gradient_final__png_.png
+      alt: Image alt text
+  - infopic:
+      title: Innovation and technology
+      subtitle: Enhancing care outcomes with
+      id: infopic
+      button: Find out more
+      url: ""
   - resources:
       title: Resources
       subtitle: Add a preview and link to your Resource Room
       id: resources
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---

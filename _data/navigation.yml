@@ -2,8 +2,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: About EGH
     collection: about-egh
-  - title: Building our Hospital
-    url: /permalink
+  - title: Building our hospital
+    collection: building-our-hospital
   - title: Careers
     collection: careers
   - title: Insights, Stories & News

@@ -42,6 +42,7 @@ sections:
       id: infopic
       button: Find out more
       image: /images/Gradient_and_campus_line_drawing_v2.png
+      alt: holder image
   - resources:
       title: Resources
       subtitle: Add a preview and link to your Resource Room
